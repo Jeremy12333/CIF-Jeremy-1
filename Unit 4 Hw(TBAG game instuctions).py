@@ -1,0 +1,7 @@
+print("Welcome to my TBAG game\n")
+print("Instructions : \n")
+print("The goal of the game is to survive with enough hp to win\n")
+print("1. You start with 10 hp\n2. Each answer will give you 2 hp if you get it right and will take 4 hp if you get it wrong")
+print("3. If you reach 0 hp, you instantly loose\n")
+print("Questions:\n 1. What is the smallest planet in our solar system?  Mecury. \n 2. How many tentacles does an octopus have? Eight.\n 3. What is the largest dessert is the world called? The Sahara Desert.")
+print(" 4. Which company is the richest in the world? Nvidia.\n 5. What colour do you get when you mix red and blue? Purple.\n")
