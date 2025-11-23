@@ -1,0 +1,32 @@
+import turtle 
+my_turtle=turtle.Turtle()
+my_screen=turtle.Screen()
+my_turtle.color("white")
+my_turtle.fillcolor("red")
+my_screen.bgcolor("black")
+my_turtle.penup()
+my_turtle.goto(0,-250)
+my_turtle.pendown()
+my_turtle.begin_fill()
+my_turtle.forward(50)
+my_turtle.right(90)
+my_turtle.forward(100)
+my_turtle.right(90)
+my_turtle.forward(100)
+my_turtle.right(90)
+my_turtle.forward(100)
+my_turtle.right(90)
+my_turtle.forward(50)
+my_turtle.left(90)
+my_turtle.end_fill()
+my_turtle.shape("circle")
+my_turtle.speed(10)
+my_turtle.shapesize(1)
+for i in range(60):
+    my_turtle.forward(10)
+    my_turtle.left(1)
+
+
+
+turtle.done()
+
